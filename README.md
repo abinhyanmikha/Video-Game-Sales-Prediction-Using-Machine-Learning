@@ -1,4 +1,4 @@
-## 11. Conclusion and reporting notes
+##  Conclusion and reporting notes
 
 Use the actual `results_df` output to write your findings. Do not copy example metrics from earlier runs.
 
